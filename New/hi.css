@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#aa{
+background-color: blue;
+margin-left: 20px;
+padding: auto;
+}
+#bb{
+    background-color: red;
+    color: white;
+    font-display: bold;
+    
+    font-size: larger;
+}

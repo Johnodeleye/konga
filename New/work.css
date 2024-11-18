@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: red;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    
+    
+}
+.min{
+    background-color: blue;
+    width: 300px;
+    height: 150px; 
+    border-radius: 5px;
+    border: solid green;
+}
+.min1{
+    background-color: green;
+    width: 300px;
+    height: 150px;
+    margin-left: 40px;
+    border-radius: 5px;
+    border: solid blue;
+    
+    
+}
+.min1{
+    background-color: green;
+    width: 300px;
+    height: 150px;
+    margin-left: 40px;
+    border-radius: 5px;
+    border: solid blue;
+    
+    
+}

@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+} 
+.body{
+    background-image: url(../images/Verve_Image.png);
+    width: 100x;
+    height: 200px;
+    background-color: palevioletred;
+
+    
+}
+.aa{
+color: white;
+display: flex;
+margin: 0%;
+justify-content: space-around;
+}
+
+.main{
+    background-color: white;
+    height: 300px;
+    padding-top: 50px;
+display: flex;
+justify-content: space-around;  
+/* justify-content: space-between; */
+flex-wrap: wrap;
+ width: 100%;   
+}
+.min1{
+    background-color: red;
+    width: 100px;
+    height: 200px;
+   border-radius: 20px;
+    border: 2px solid blue;
+    /* padding-top: 50px; */
+}
+.min2{
+    background-color: red;
+    width: 100px;
+   border-radius: 20px;
+   height: 200px;
+    border: 2px solid blue;
+
+    /* padding-top: 50px; */
+}
+.min3{
+    background-color: red;
+    width: 100px;
+    height: 200px;  
+     border-radius: 20px;
+    /* padding-top: 50px; */    border: 2px solid blue;
+
+}
+.min4{
+    background-color: red;
+    width: 100px;
+    height: 200px;
+    border-radius: 20px;
+
+    /* padding-top: 50px; */    border: 2px solid darkblue;
+
+}
